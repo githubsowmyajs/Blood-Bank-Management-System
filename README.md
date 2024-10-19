@@ -1,12 +1,12 @@
 Blood Bank Management System
 
 
-Overview
+# Overview
 
 
 The Blood Bank Management System is a web-based application designed to manage the inventory and donor information of a blood bank. It allows the administration to manage blood stocks, donor details, and blood request processes efficiently. The system provides a user-friendly interface using HTML and CSS, while the data is stored and managed using SQL.
 
-Features
+# Features
 
 
 Donor Management: Add, update, and delete donor details.
@@ -16,7 +16,7 @@ Search Functionality: Search for donors and blood types based on various criteri
 User Authentication: Secure access for administrators to manage the blood bank.
 
 
-Technologies Used
+# Technologies Used
 
 
 Front-End:
@@ -26,7 +26,7 @@ CSS: Used for styling the web pages to create a user-friendly interface.
 Back-End:
 SQL: Used for managing the database, including tables for donors, blood stocks, and requests.
 
-Screenshots
+# Screenshots
 
 ![image](https://github.com/user-attachments/assets/78a35d85-1b92-42d3-bce4-278f03bb440a)
 ![image](https://github.com/user-attachments/assets/cdc2b0eb-b6b4-4940-8313-95cb5a784427)
