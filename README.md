@@ -38,11 +38,11 @@ SQL: Used for managing the database, including tables for donors, blood stocks, 
 
 
 
-Future Enhancements
+# Future Enhancements
 
 
-User Role Management: Different access levels for users, such as admin, staff, and guest.
+1.User Role Management: Different access levels for users, such as admin, staff, and guest.
 
-Email Notifications: Automatic notifications for low stock levels and request approvals.
+2.Email Notifications: Automatic notifications for low stock levels and request approvals.
 
-Data Analytics: Reports and analytics on blood donations, stocks, and requests.
+3.Data Analytics: Reports and analytics on blood donations, stocks, and requests.
